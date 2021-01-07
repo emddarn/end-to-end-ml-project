@@ -1,7 +1,7 @@
 # End-to-End Machine Learning Project
 The goal is just to illustrate the main steps of a Machine learning project. The main steps are:
-## Look at the Big Picture
-## Get the data
+## Big Picture & Problem Formulation
+## Collect Data
 ## EDA (Exploratory Data Analysis)
 ## ETL (Extract, Transform, and Load)
 
