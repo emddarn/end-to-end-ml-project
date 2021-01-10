@@ -1,8 +1,12 @@
 # End-to-End Machine Learning Project
 The goal is just to illustrate the main steps of a Machine learning project where we'll predict the house pricing. The main steps involved are:
-## Look at the Big Picture
-## Get the data
+
+## Big Picture & Problem Formulation
+
+## Collect Data
+
 ## EDA (Exploratory Data Analysis)
+
 ## ETL (Extract, Transform, and Load)
 
 ETL stands for Extract, Transform, and Load and so any ETL tool should be at least have the following features:
@@ -14,6 +18,7 @@ Load
 In the load process, the transformed data is loaded into the target warehouse database. The standard ETL tools support connectors for various databases like Snowflake, MS SQL, and Oracle.
 
 ## Model Selection and Training
+
 ## Model Fine-tuning
 
 ## Solution Presentation
