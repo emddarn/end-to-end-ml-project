@@ -1,5 +1,5 @@
 # End-to-End Machine Learning Project
-The goal is just to illustrate the main steps of a Machine learning project. The main steps are:
+The goal is just to illustrate the main steps of a Machine learning project where we'll predict the house pricing. The main steps involved are:
 ## Look at the Big Picture
 ## Get the data
 ## EDA (Exploratory Data Analysis)
